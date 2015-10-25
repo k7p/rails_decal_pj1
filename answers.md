@@ -23,8 +23,10 @@ trainer path of the trainer who owns the damaged pokemon.
 
 This is the flash hashmap, with a key called :error, and this can be accessed in the view. The value at the key called :error is @pokemon.errors.full_messages.to_sentence, which keeps track of the errors from failing validation checks. Source: http://api.rubyonrails.org/classes/ActionDispatch/Flash.html
 
-# Give us feedback on the project and decal below!
+# Give us feedback on the project and decal below! 
 
 You guys clearly put a lot of work into course, so keep it up!
-
+  
 # Extra credit: Link your Heroku deployed app
+
+https://boiling-sea-8301.herokuapp.com/
